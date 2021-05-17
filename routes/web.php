@@ -1,6 +1,14 @@
 <?php
 
-Route::redirect('/', '/login');
+use Illuminate\Support\Facades\Route;
+use Illuminate\Support\Facades\Auth;
+
+
+
+// Route::redirect('/', '/login');
+Route::get('/', function () {
+    return view('layouts.home');
+});
 Route::redirect('/home', '/admin');
 Auth::routes(['register' => false]);
 
