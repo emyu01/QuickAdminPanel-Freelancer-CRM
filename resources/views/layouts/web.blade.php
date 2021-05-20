@@ -77,18 +77,18 @@
         </style>
 
         <!--Title-->
-        <title>Home - Ultraline</title>
+        <title>Home - Emyu Computer Consultancy</title>
         <meta name="description"
-            content="Ultraline is a unique Software development company who since its very beginnings in 2016 has fulfilled a niche in the rapidly growing IT industry.">
+            content="Emyu Computer Consultancy is a unique Software development company who since its very beginnings in 2016 has fulfilled a niche in the rapidly growing IT industry.">
         <meta name="keywords" content="Text">
 
         <!-- Open graph meta tag -->
         <meta property="og:title"
-            content="Ultraline is a unique Software development company who since its very beginnings in 2016 has fulfilled a niche in the rapidly growing IT industry.">
-        <meta property="og:site_name" content="CodePopular">
-        <meta property="og:url" content="http://codepopular.com">
+            content="Emyu Computer Consultancy is a unique Software development company who since its very beginnings in 2016 has fulfilled a niche in the rapidly growing IT industry.">
+        <meta property="og:site_name" content="Emyu Computer Consultancy">
+        <meta property="og:url" content="https://www.emyuconsulting.com.ng">
         <meta property="og:description"
-            content="Ultraline is a unique Software development company who since its very beginnings in 2016 has fulfilled a niche in the rapidly growing IT industry.">
+            content="Emyu Computer Consultancy is a unique Software development company who since its very beginnings in 2016 has fulfilled a niche in the rapidly growing IT industry.">
         <meta property="og:type" content="article">
         <meta property="og:image"
             content="https://softdevltd.com/ultraline/local/public/contents/frontend/assets/img/og.png">
@@ -108,7 +108,7 @@
                 <div class="container">
                     <div class="codepopular-responsive-menu">
                         <div class="logo">
-                            <a href="https://softdevltd.com/ultraline">
+                            <a href="https://www.emyuconsulting.com.ng">
                                 <img src="{{asset('img/logo_1608219121.png')}}" alt="logo">
                             </a>
                         </div>
@@ -119,7 +119,7 @@
             <div class="codepopular-nav bg-white">
                 <div class="container">
                     <nav class="navbar navbar-expand-md navbar-light">
-                        <a class="navbar-brand" href="https://softdevltd.com/ultraline">
+                        <a class="navbar-brand" href="https://www.emyuconsulting.com.ng">
                             <img src="{{asset('img/logo_1608219121.png')}}" alt="logo">
                         </a>
 
@@ -127,25 +127,24 @@
                             style="display: block;">
                             <ul class="navbar-nav">
                                 <li class="nav-item">
-                                    <a href="https://softdevltd.com/ultraline" class="nav-link">Home</a>
+                                    <a href="/" class="nav-link">Home</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="https://softdevltd.com/ultraline/about-us" class="nav-link">About Us</a>
+                                    <a href="/about-us" class="nav-link">About Us</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="https://softdevltd.com/ultraline/service" class="nav-link">Services</a>
+                                    <a href="/our-services" class="nav-link">Services</a>
                                 </li>
+                                {{-- <li class="nav-item">
+                                    <a href="/project" class="nav-link">Project</a>
+                                </li> --}}
                                 <li class="nav-item">
-                                    <a href="https://softdevltd.com/ultraline/project" class="nav-link">Project</a>
-                                </li>
-                                <li class="nav-item">
-                                    <a href="https://softdevltd.com/ultraline/contact" class="nav-link">Contact</a>
+                                    <a href="/contact-us" class="nav-link">Contact</a>
                                 </li>
                             </ul>
 
                             <div class="others-options">
-                                <div class="option-item"><a class="default-btn-one"
-                                        href="https://softdevltd.com/ultraline/quote">Get Quote</a>
+                                <div class="option-item"><a class="default-btn-one" href="/get-quote">Get Quote</a>
 
                                 </div>
 
@@ -176,32 +175,32 @@
                                 of type and scrambled it to make a type specimen book</p>
                             <ul class="footer-social">
                                 <li>
-                                    <a href="https://softdevltd.com/ultraline/#" class="bg-3955bc">
+                                    <a href="#" class="bg-3955bc">
                                         <i class="fab fa-facebook-f"></i>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="https://softdevltd.com/ultraline/#" class="bg-1da1f2">
+                                    <a href="#" class="bg-1da1f2">
                                         <i class="fab fa-twitter"></i>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="https://softdevltd.com/ultraline/#" class="bg-004dff">
+                                    <a href="#" class="bg-004dff">
                                         <i class="fab fa-pinterest"></i>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="https://softdevltd.com/ultraline/#" class="bg-0273af">
+                                    <a href="#" class="bg-0273af">
                                         <i class="fab fa-linkedin-in"></i>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="https://softdevltd.com/ultraline/#" class="bg-0273af">
+                                    <a href="#" class="bg-0273af">
                                         <i class="fab fa-youtube"></i>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="https://softdevltd.com/ultraline/#" class="bg-0273af">
+                                    <a href="#" class="bg-0273af">
                                         <i class="fab fa-dribbble"></i>
                                     </a>
                                 </li>
@@ -217,20 +216,20 @@
 
                             <ul class="footer-quick-links">
                                 <li>
-                                    <a href="https://demo.softdevltd.com/ultraline-laravel/service">About Us</a>
+                                    <a href="#">About Us</a>
                                 </li>
                                 <li>
-                                    <a href="https://www.codepopular.com/ultraline/service">Project</a>
+                                    <a href="#">Project</a>
                                 </li>
                                 <li>
-                                    <a href="https://www.codepopular.com/ultraline/service">Services</a>
+                                    <a href="#">Services</a>
                                 </li>
 
                                 <li>
-                                    <a href="https://www.codepopular.com/ultraline/service">Contact</a>
+                                    <a href="#">Contact</a>
                                 </li>
                                 <li>
-                                    <a href="https://www.codepopular.com/ultraline/service">Get Quote</a>
+                                    <a href="#">Get Quote</a>
                                 </li>
 
                             </ul>
@@ -245,18 +244,18 @@
 
                             <ul class="footer-quick-links">
 
-                                <li><a href="https://www.codepopular.com/ultraline/service">Mobile App Development</a>
+                                <li><a href="#">Mobile App Development</a>
                                 </li>
 
 
-                                <li><a href="https://www.codepopular.com/ultraline/service">Web Development</a></li>
+                                <li><a href="#">Web Development</a></li>
 
-                                <li><a href="https://www.codepopular.com/ultraline/service">UI/UX Design</a></li>
+                                <li><a href="#">UI/UX Design</a></li>
 
 
-                                <li><a href="https://www.codepopular.com/ultraline/service">Mobile Games</a></li>
+                                <li><a href="#">Mobile Games</a></li>
 
-                                <li><a href="https://www.codepopular.com/ultraline/service">Software Testing And QA</a>
+                                <li><a href="#">Software Testing And QA</a>
                                 </li>
 
                             </ul>
@@ -275,7 +274,7 @@
 
                         <div class="footer-info-contact">
                             <i class="flaticon-envelope"></i>
-                            <span><a href="mailto:info@youwebsite.com">info@youwebsite.com</a></span>
+                            <span><a href="mailto:info@emyuconsulting.com.ng">info@emyuconsulting.com.ng</a></span>
                         </div>
 
                         <div class="footer-info-contact">
@@ -303,19 +302,19 @@
                     <div class="col-lg-6 col-md-6">
                         <p>
                             <i class="far fa-copyright"></i>
-                            2020 Ultraline Solutions. All Rights Reserved
+                            2021 Emyu Computer Consultancy. All Rights Reserved
                         </p>
                     </div>
 
                     <div class="col-lg-6 col-md-6">
                         <ul>
                             <li>
-                                <a href="https://softdevltd.com/ultraline/privacy-policy">Privacy Policy</a>
+                                <a href="#">Privacy Policy</a>
                             </li>
 
 
                             <li>
-                                <a href="https://softdevltd.com/ultraline/terms-and-conditions">Terms and Conditions</a>
+                                <a href="#">Terms and Conditions</a>
                             </li>
 
 

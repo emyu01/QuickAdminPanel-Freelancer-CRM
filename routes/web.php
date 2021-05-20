@@ -9,6 +9,19 @@ use Illuminate\Support\Facades\Auth;
 Route::get('/', function () {
     return view('layouts.home');
 });
+Route::get('/about-us', function () {
+    return view('layouts.about');
+});
+Route::get('/contact-us', function () {
+    return view('layouts.contact');
+});
+Route::get('/our-services', function () {
+    return view('layouts.services');
+});
+Route::get('/get-quote', function () {
+    return view('layouts.quote');
+});
+
 Route::redirect('/home', '/admin');
 Auth::routes(['register' => false]);
 
